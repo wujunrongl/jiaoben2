@@ -1,0 +1,635 @@
+{
+	"llsid": 2005175966507566065,
+	"result": 1,
+	"errorMsg": "OK",
+	"impAdInfo": [{
+		"type": 1,
+		"pageId": 11101,
+		"subPageId": 100013630,
+		"gridPos": 0,
+		"gridUnitId": "1",
+		"adInfo": [{
+			"adTrackInfo": [],
+			"adConversionInfo": {
+				"h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback=shAbz5z_-Raks980UJbobYwQldX5gj4s3ue6owSOOadMBgu2Ww6BqXqzxfK3ZdoCKo0xlUmHR89SksVz3THND0iO8YLn4fbR94ERc8hsZxu_XfqPpOUDcbkSIes4k1sL-EK3q5yVBFT2uuTksfz3udws-KkfBUic4qgBaBc_9qsKQkKZRrkzQReCMtZiTmx_",
+				"deeplinkUrl": "",
+				"appDownloadUrl": "https://d.humaiyouxi.com/d/RQxKGv/jzks_148_16.apk",
+				"marketUrl": "",
+				"h5Type": 0,
+				"email": "",
+				"cellphone": "",
+				"midPageUrl": "",
+				"liveStreamId": "PojYA1tAoJg"
+			},
+			"adBaseInfo": {
+				"creativeId": 22954648257,
+				"accountId": 13060296,
+				"adSourceType": 1,
+				"adDescription": "上线即送3万元宝真实充值，抽到满意再开，这才是真正的内部号！",
+				"adSourceDescription": "广告",
+				"adOperationType": 1,
+				"adShowDuration": 25,
+				"appIconUrl": "https://static.yximgs.com/udata/pkg/13723d11fe564ffd9d21bc9c06ee59b5.png",
+				"appName": "妖怪哪里逃.apk",
+				"appPackageName": "com.jzyx.ygnlt",
+				"appScore": 0,
+				"adActionDescription": "立即下载",
+				"adMarkContent": "广告",
+				"campaignId": 811839618,
+				"unitId": 1478977057,
+				"adPos": 0,
+				"adxSourceType": 0,
+				"chargeInfo": "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",
+				"campaignName": "智能托管提升应用安装jzks_148_16乐谷-作妖记LG-0331-121乐谷-作妖记CD-0401-182乐谷-作妖记LG-0423-123乐谷-作妖记LG-0419-122乐的托管计划",
+				"deliveryStartTs": 0,
+				"deliveryEndTs": 0,
+				"adShowEnable": 0,
+				"productName": "妖怪哪里逃",
+				"enableCloseAd": true,
+				"adActionBarColor": "e5472d",
+				"inspireAdInfo": {
+					"inspireAdBillTime": 35000
+				},
+				"autoDownloadForWifi": false,
+				"usePriorityCard": false,
+				"serverExpTag": ""
+			},
+			"adMaterialInfo": {
+				"materialType": 1,
+				"materialFeature": [{
+					"materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/04/15/14/BMjAyMjA0MTUxNDM2NTZfMjcxMTQ1NDg5N183MjEwMzkyNjA1N18wXzM=_b_B788d9722cb77d899e961695e2a0aed46.mp4?tag=1-1653316124-unknown-0-p7pv9pjvod-8b5385d7a01ec637&clientCacheKey=3xvpmdztuun2ryc_b.mp4&tt=b&di=714431e1&bp=13291",
+					"coverUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg",
+					"materialSize": {
+						"width": 0,
+						"height": 0
+					},
+					"featureType": 1,
+					"photoId": 5253730512559520669,
+					"photoSize": {
+						"width": 720,
+						"height": 1280
+					}
+				}]
+			},
+			"advertiserInfo": {
+				"userId": 2711454897,
+				"userName": "快手用户1642573966762",
+				"accountId": 13060296,
+				"userGender": "U",
+				"portraitUrl": "https://static.yximgs.com/uhead/AB/2019/06/19/20/BMjAxOTA2MTkyMDExNDFfOTAwNDFfZGVmYXVsdFVzZXJIZWFkX2RlZmF1bHQ=.png"
+			},
+			"reservationId": "",
+			"liveStartTime": 0
+		}]
+	}],
+	"feeds": [{
+		"streamManifest": {
+			"version": "1.0.0",
+			"businessType": 2,
+			"mediaType": 2,
+			"videoId": "d52448401e61f614",
+			"hideAuto": false,
+			"manualDefaultSelect": false,
+			"stereoType": 0,
+			"adaptationSet": [{
+				"id": 1,
+				"duration": 24440,
+				"representation": [{
+					"id": 1,
+					"url": "http://v2-cty01.kwaicdn.com/ksc1/N-j9QVJUYGoDR4PVx79jlMRrOcp6Z5eYlTpYqzb2iKMtpcyBLnP12E71zrzwdx4bmKBc6ZLccFFzAWJ3WHbDR9j14L9f14Ntlun804Pm3KFMlGcd3xgSn6P4xAfgHRAlXPbHPDPo4rF3Eu0cSoC34ge41CsybOX7s6IYyf-zJOOBPuEYp_6Z0-uM7KHANvcI.mp4?pkey=AAU9Yo6SWichxlTsd-AFF2bQMfjLQ-L9JjbZkuM9LOhXgRQr5Gmu2ppwGO_GWI2dWhPgFRyQij4CNJ7ndjeS6oTZE1y72jTcEK9AeIIG3yc6cDv6G_kgYSleP6dbIJrIxW8&tag=1-1653316124-unknown-0-lyxlmgtked-941b31b86da39680&type=hot&clientCacheKey=3xvpmdztuun2ryc_comp.mp4&di=714431e1&bp=10001&tt=comp&ss=vp",
+					"backupUrl": ["http://v1.kwaicdn.com/ksc1/N-j9QVJUYGoDR4PVx79jlMRrOcp6Z5eYlTpYqzb2iKMtpcyBLnP12E71zrzwdx4bmKBc6ZLccFFzAWJ3WHbDR9j14L9f14Ntlun804Pm3KFMlGcd3xgSn6P4xAfgHRAlXPbHPDPo4rF3Eu0cSoC34ge41CsybOX7s6IYyf-zJOOBPuEYp_6Z0-uM7KHANvcI.mp4?pkey=AAVwq41BDHmuOVCtqTzUhj7udD2AK34x7YF9NzVQl1U4-acmLrZpgVC7xrcFUFUUGVduTIlduLYPD_F_upEUJjiuudUxxYzO3gmglxbxaRtircKjstXS17TNAnfdqMy2K8s&tag=1-1653316124-unknown-1-rssspfjj5n-ca2dcdd3a24c3a79&type=hot&clientCacheKey=3xvpmdztuun2ryc_comp.mp4&di=714431e1&bp=10001&tt=comp&ss=vp"],
+					"maxBitrate": 2300,
+					"avgBitrate": 891,
+					"width": 720,
+					"height": 1280,
+					"frameRate": 25.0,
+					"quality": 1.8,
+					"kvqScore": {
+						"FR": 3.4343762771800264,
+						"NR": 3.398681640625
+					},
+					"qualityType": "720p-kvc",
+					"qualityLabel": "高清",
+					"featureP2sp": false,
+					"hidden": false,
+					"disableAdaptive": false,
+					"defaultSelect": false,
+					"comment": "d52448401e61f614/comp",
+					"hdrType": 0,
+					"fileSize": 2722773,
+					"bitratePattern": [887, 620, 1205, 332, 258]
+				}, {
+					"id": 2,
+					"url": "http://v2-cty01.kwaicdn.com/ksc1/9wTrbidD0kTSYNgQ60EDUEzOZKnfSbnAEZCTgk3eGBLQOu073B07UZj81G6KB107uZw41w2Pb7Qv7ICImDya6iYGotFGQmCcsFb5oZHLWyC1Nn-SL22WzI9TjDf8I-ISzjzAW1-S_KIs631JEHxA-hhQwtluOXHIIO_e4Z9KQd9W6UKpNwSJXC7hbXhxmiWd.mp4?pkey=AAUzGykwr4u0MEo5YgShoq_LFLxXUSKQFDeDnEmE2Ta2GSNcWJU2tUbiuW13P1F8MR0pgHWmSKWtw-_sblZGnQW5k9VOoAavpehwm0twjfMb7OsHZchvPBoPGkuQ7-xsJqo&tag=1-1653316124-unknown-0-sgoq74rbeu-8a1bb0580a189ade&type=hot&clientCacheKey=3xvpmdztuun2ryc_vnus.mp4&di=714431e1&bp=10001&tt=vnus&ss=vp",
+					"backupUrl": ["http://v1.kwaicdn.com/ksc1/9wTrbidD0kTSYNgQ60EDUEzOZKnfSbnAEZCTgk3eGBLQOu073B07UZj81G6KB107uZw41w2Pb7Qv7ICImDya6iYGotFGQmCcsFb5oZHLWyC1Nn-SL22WzI9TjDf8I-ISzjzAW1-S_KIs631JEHxA-hhQwtluOXHIIO_e4Z9KQd9W6UKpNwSJXC7hbXhxmiWd.mp4?pkey=AAU5NhpOFCkLMmIaYjotZxnWCRKbKMuWdUZRwnR2bsfyScmJ05neEx76CMdWsLl9dpXX86sIq7c_NxL9n3yd8wTVrCsvRvpZSqbKTvNTzSTyVmMk8tLIzeJF30tER4s-bWc&tag=1-1653316124-unknown-1-36b9athlk2-845783c5a598cb5f&type=hot&clientCacheKey=3xvpmdztuun2ryc_vnus.mp4&di=714431e1&bp=10001&tt=vnus&ss=vp"],
+					"maxBitrate": 2300,
+					"avgBitrate": 1104,
+					"width": 720,
+					"height": 1280,
+					"frameRate": 25.0,
+					"quality": 1.6,
+					"kvqScore": {
+						"FR": 3.4013306300487023,
+						"NR": 3.245361328125
+					},
+					"qualityType": "720p",
+					"qualityLabel": "高清",
+					"featureP2sp": false,
+					"hidden": false,
+					"disableAdaptive": false,
+					"defaultSelect": false,
+					"comment": "d52448401e61f614/vnus",
+					"hdrType": 0,
+					"fileSize": 3375315,
+					"bitratePattern": [1105, 793, 1529, 326, 306]
+				}, {
+					"id": 3,
+					"url": "http://v2-cty01.kwaicdn.com/ksc1/UXgJyzFSyEVs0kouq6Dd57pf5mhRbZ5DHbdoAF382aOfX0cIHoa80HItrVDhN2VAS1dJEMfrdEdco9dqYM7HU_38RrlWKE5NCuIfZb8bY_i7oWPX68I2w66P9MOlc7CvMptHOdjiFPpkajOr1ffSBHCtQftd9Rteqk3lKlYUqUM5xVj6sQGpbjuvF2D7bpj6.mp4?pkey=AAU9NOvSZv3Hmm02xDEpjazKlhN4jgTUdyzSCp2lj51-g7m65L1Xalb6m6uO1Pt6Txs7vKLS9rsa0g0sd34nr9LFcUeZIOL9MA0Apa8S1KofIuOOBxEuyyUc5At3uGRXT3Y&tag=1-1653316124-unknown-0-v8avdpgack-32d2d882337bbbee&type=hot&clientCacheKey=3xvpmdztuun2ryc_hd24.mp4&di=714431e1&bp=10001&tt=hd24&ss=vp",
+					"backupUrl": ["http://v1.kwaicdn.com/ksc1/UXgJyzFSyEVs0kouq6Dd57pf5mhRbZ5DHbdoAF382aOfX0cIHoa80HItrVDhN2VAS1dJEMfrdEdco9dqYM7HU_38RrlWKE5NCuIfZb8bY_i7oWPX68I2w66P9MOlc7CvMptHOdjiFPpkajOr1ffSBHCtQftd9Rteqk3lKlYUqUM5xVj6sQGpbjuvF2D7bpj6.mp4?pkey=AAWX5VynNQO7M3ffHGE4xvbrsK0AFnobI6_-o8Uail0So79bEv9Gm7KSWZGPFHRHgCYVzqgy_LSam7vLdKKtLEJQSN50hVRvXhzBapBrN5eHp82aDD1T3tWmd8ITHzd124U&tag=1-1653316124-unknown-1-9a6jvoh9xp-df6a98fa0b032f81&type=hot&clientCacheKey=3xvpmdztuun2ryc_hd24.mp4&di=714431e1&bp=10001&tt=hd24&ss=vp"],
+					"maxBitrate": 750,
+					"avgBitrate": 804,
+					"width": 576,
+					"height": 1024,
+					"frameRate": 25.0,
+					"quality": 1.4,
+					"qualityType": "576p",
+					"qualityLabel": "标清",
+					"featureP2sp": false,
+					"hidden": false,
+					"disableAdaptive": false,
+					"defaultSelect": false,
+					"comment": "d52448401e61f614/hd24",
+					"hdrType": 0,
+					"fileSize": 2457946,
+					"bitratePattern": [856, 765, 1032, 312, 154]
+				}, {
+					"id": 4,
+					"url": "http://v2-cty01.kwaicdn.com/ksc1/AXYgn7ulQzP6Vt2hY17t3GPiWY39C4ZzBKBjVHYRY69SIxcFZSH1Pqbw9oO7LJ7FSaRdO72L9xDQ2UJvi-ZOw4PpWBDmuT_7JtUyMWk2ixAyw53WkgMzlFF4IfutdRls6qKTcqX9Q9LaJH5X58twEM6nY0fqtdR-3Aa4dtIEfsH50y0VpbbSACt6r6ZI9laK.mp4?pkey=AAVHoNoQFKCes9m6BeSX4rtzl8HPHQDeaCSznF4Q5zQDf9SHOrjUPq0ODCagQds5VswOl164arZ8ph7zSvev3QY9z8KV55TAVEfH2zgYMovVpl8TNb2xJc8n1kK7962zajo&tag=1-1653316124-unknown-0-bphmsinrxw-96826a7581d72865&type=hot&clientCacheKey=3xvpmdztuun2ryc_hd25.mp4&di=714431e1&bp=10001&tt=hd25&ss=vp",
+					"backupUrl": ["http://v1.kwaicdn.com/ksc1/AXYgn7ulQzP6Vt2hY17t3GPiWY39C4ZzBKBjVHYRY69SIxcFZSH1Pqbw9oO7LJ7FSaRdO72L9xDQ2UJvi-ZOw4PpWBDmuT_7JtUyMWk2ixAyw53WkgMzlFF4IfutdRls6qKTcqX9Q9LaJH5X58twEM6nY0fqtdR-3Aa4dtIEfsH50y0VpbbSACt6r6ZI9laK.mp4?pkey=AAVF_UMUxMn8bV6SI4jjj6qaP66OEgF9B9HGfPjOo-QNVguh5GCBs_aKD3OeFtdm2LwudEcKEFjrHoyyNycuWSONULdsTcaQNy_1klgc-XQw5raFqNiJUAIwpTeoGeFaIB0&tag=1-1653316124-unknown-1-07zr4s4g6l-58c24631a5f0c548&type=hot&clientCacheKey=3xvpmdztuun2ryc_hd25.mp4&di=714431e1&bp=10001&tt=hd25&ss=vp"],
+					"maxBitrate": 400,
+					"avgBitrate": 459,
+					"width": 540,
+					"height": 960,
+					"frameRate": 25.0,
+					"quality": 1.2,
+					"qualityType": "480p",
+					"qualityLabel": "流畅",
+					"featureP2sp": false,
+					"hidden": false,
+					"disableAdaptive": false,
+					"defaultSelect": false,
+					"comment": "d52448401e61f614/hd25",
+					"hdrType": 0,
+					"fileSize": 1405215,
+					"bitratePattern": [511, 444, 569, 207, 76]
+				}]
+			}],
+			"playInfo": {},
+			"videoFeature": {
+				"blurProbability": 0.339750736951828,
+				"blockyProbability": 0.46982601284980774,
+				"avgEntropy": 14.284110205514091,
+				"mosScore": 0.5630834102630615
+			}
+		},
+		"comments": [],
+		"displayTime": null,
+		"location": {},
+		"timestamp": 1653316124334,
+		"time": "2022-05-23 22:28:44",
+		"caption": "上线即送3万元宝真实充值，抽到满意再开，这才是真正的内部号！",
+		"photo_id": 5253730512559520669,
+		"isShareCountExp": false,
+		"view_count": 2548491,
+		"photo_status": 0,
+		"like_count": 0,
+		"unlike_count": 0,
+		"forward_count": 0,
+		"share_count": 117,
+		"recoTags": [],
+		"tags": [],
+		"adminTags": [],
+		"photoTextLocationInfo": {
+			"leftRatio": 0.01944,
+			"topRatio": 0.1414,
+			"widthRatio": 0.97083,
+			"heightRatio": 0.85859
+		},
+		"verified": false,
+		"following": 0,
+		"user_sex": "U",
+		"headurls": [{
+			"cdn": "static.yximgs.com",
+			"url": "http://static.yximgs.com/uhead/AB/2019/06/19/20/BMjAxOTA2MTkyMDExNDFfOTAwNDFfZGVmYXVsdFVzZXJIZWFkX2RlZmF1bHQ=.png"
+		}],
+		"user_name": "快手用户1642573966762",
+		"comments": [],
+		"us_c": 0,
+		"slideCommentEntryDisabled": false,
+		"comment_count": 0,
+		"shareGuide": {
+			"minPlayDurationInSeconds": 15,
+			"textDisplayDurationInSeconds": 4,
+			"playTimes": 1,
+			"photoShareGuide": false
+		},
+		"us_d": 1,
+		"share_info": "userId=3xyu7spka7p4ai6&photoId=3xvpmdztuun2ryc",
+		"forward_stats_params": {
+			"fid": "2852800382",
+			"et": "1_u/2005175966507566065_hd0"
+		},
+		"liked": 0,
+		"hated": 0,
+		"frameStyle": 0,
+		"plcFeatureEntryAbFlag": 0,
+		"noNeedToRequestPLCApi": true,
+		"plcResponseTime": 0,
+		"plcHighPriorityThanBottomEntry": false,
+		"ad": {
+			"creativeId": 22954648257,
+			"chargeInfo": "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",
+			"sourceType": 1,
+			"conversionType": 1,
+			"displayType": 2,
+			"title": "立即下载",
+			"url": "https://d.humaiyouxi.com/d/RQxKGv/jzks_148_16.apk",
+			"sourceDescription": "广告",
+			"subscriptDescription": "广告",
+			"adType": 1,
+			"adCover": {
+				"coverUrls": [{
+					"url": "http://tx2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg"
+				}, {
+					"url": "http://ali2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg"
+				}],
+				"width": 720,
+				"height": 1280
+			},
+			"packageName": "com.jzyx.ygnlt",
+			"appName": "妖怪哪里逃.apk",
+			"showEndOption": true,
+			"orderId": 0,
+			"preloadLandingPage": false,
+			"commentOn": true,
+			"actionBarRatio": 1.0,
+			"extData": "{\"templateInfos\":[\"2_11_116_0\",\"8_1_103_0\",\"3_11_137_0\"]}",
+			"alertNetMobile": false,
+			"useH5": false,
+			"appIconUrl": "https://static.yximgs.com/udata/pkg/13723d11fe564ffd9d21bc9c06ee59b5.png",
+			"h5App": false,
+			"fansTopFeedFlameType": 4,
+			"enableShowFansTopFlame": false,
+			"fansTopDetailPageFlameType": 3,
+			"fansTopDetailPageFlameDesc": "",
+			"actionBarLoadTime": 3000,
+			"itemHideLabel": false,
+			"labelStyle": 0,
+			"newStyle": true,
+			"actionBarStyle": 1,
+			"score": 0.0,
+			"actionBarColor": "e5472d",
+			"manuUrls": [],
+			"usePriorityCard": false,
+			"coverId": 4613319764,
+			"templateType": 1,
+			"pageId": 11101,
+			"subPageId": 100013630,
+			"landingPageStyle": 0,
+			"clientStyleInfo": {
+				"landingPageActionbarInfo": {
+					"actionBarDisplayInfo": "推荐",
+					"actionBarShowTime": 3000,
+					"popLandingPageHeightPct": 30
+				},
+				"adMaterialFeatures": null
+			},
+			"weakStyle": false,
+			"adData": {
+				"cover": null,
+				"useTrackType": 0
+			},
+			"adDataV2": {
+				"abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+				"actionBarInfo": {
+					"actionBarColor": "e5472d",
+					"actionBarLoadTime": 4000,
+					"actionBarLocation": 0,
+					"actionBarStyle": 1,
+					"displayInfo": "立即下载",
+					"downloadedActionBarLoadTime": 3000,
+					"realShowDelayTime": 6000,
+					"templateId": "adtk-action-bar-ad-v11",
+					"withoutFloatingToComment": true
+				},
+				"adAfterCaption": 1,
+				"adCardTemplateInfo": {
+					"animationStyle": 2,
+					"templateId": "adtk-card-ad-v3",
+					"useTemplate": true
+				},
+				"adCoverPageButtonControl": 6,
+				"adPageButtonControl": 6,
+				"antiVendorVari": 0,
+				"apkMd5Info": {
+					"apkMd5s": ["2cd8d27c634ee822c824edae68edad01", "10656127exceptionMd5", "96b1d021930ec5cba43af54955b8b9e2", "edfceab9626fd23234315c13477d6a36"],
+					"unexpectedMd5Strategy": 0
+				},
+				"captionAdvertisementInfo": {
+					"productIconUrl": "https://static.yximgs.com/udata/pkg/13723d11fe564ffd9d21bc9c06ee59b5.png",
+					"productName": "妖怪哪里逃"
+				},
+				"commentActionBarInfo": {
+					"actionBarColor": "e5472d",
+					"actionBarLocation": 2,
+					"actionBarStyle": 2,
+					"displayInfo": "立即下载",
+					"templateId": "adtk-comment-actionbar"
+				},
+				"convertInfo": {
+					"convertId": 0,
+					"convertType": 0
+				},
+				"deepRewardedInfo": {},
+				"enableAppDownloadPause": true,
+				"enableSka": false,
+				"exitDialogInfo": {
+					"enableShowChangeVideoButton": false
+				},
+				"extraDisplayInfo": {},
+				"h5ControlInfo": {
+					"hideH5ReportEntrance": true,
+					"isDownloadLandingPageMould": true
+				},
+				"h5Data": "{\"coverUrlFrontend\":\"http://static.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"妖怪哪里逃\",\"appVersion\":\"1.0.1\",\"packageSize\":443455495,\"updateTime\":1650361872663,\"developer\":\"海南九紫网络科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"},{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"}],\"privacyPolicyUrl\":\"https://h5sdk.hainanjiuzi.com/privacy/policy\"}}",
+				"h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+				"inspireAdInfo": {
+					"enableClickOtherArea": true,
+					"inspireAction": {},
+					"inspireAdBillTime": 26000,
+					"supportLiveReservation": false
+				},
+				"iosAppId": "",
+				"iosPageId": "",
+				"itemClickUrls": {
+					"actionBarClickUrls": {
+						"appLink": "",
+						"url": ""
+					}
+				},
+				"landingPageInfo": {
+					"commentTagVisible": true
+				},
+				"negativeMenuInfo": {
+					"negativeMenus": [{
+						"id": 7,
+						"name": "不喜欢: 妖怪哪里逃",
+						"clickAction": 2,
+						"url": "",
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+					}, {
+						"id": 8,
+						"name": "不喜欢: 角色扮演广告",
+						"clickAction": 2,
+						"url": "",
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+					}, {
+						"id": 11,
+						"name": "不感兴趣",
+						"clickAction": 3,
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_dislike_icon.png"
+					}, {
+						"id": 12,
+						"name": "不感兴趣",
+						"clickAction": 3,
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+						"desc": "减少此类内容"
+					}, {
+						"id": 13,
+						"name": "不感兴趣该内容",
+						"clickAction": 2
+					}, {
+						"id": 14,
+						"name": "举报",
+						"clickAction": 1,
+						"url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=72103926057",
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_report_icon.png"
+					}, {
+						"id": 15,
+						"name": "举报",
+						"clickAction": 1,
+						"url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=72103926057",
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+						"desc": "低俗色情、虚假诈欺等"
+					}, {
+						"id": 16,
+						"name": "为何看到此广告",
+						"clickAction": 2,
+						"url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType=4&bizId=ad_fe_full_loading",
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+					}, {
+						"id": 17,
+						"name": "为何看到此广告",
+						"clickAction": 1,
+						"url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType=4&bizId=ad_fe_full_loading&noBackNavi=true",
+						"icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+					}],
+					"feedNegativeMenu": [{
+						"menuId": 12,
+						"title": "你不感兴趣这条广告的原因？",
+						"subMenuIds": [13, 7, 8]
+					}, {
+						"menuId": 15
+					}, {
+						"menuId": 17
+					}],
+					"detailNegativeMenu": [{
+						"menuId": 11,
+						"title": "你不感兴趣这条广告的原因？",
+						"subMenuIds": [13, 7, 8]
+					}, {
+						"menuId": 14
+					}, {
+						"menuId": 16
+					}],
+					"thanosDetailNegativeMenu": [{
+						"menuId": 11,
+						"title": "你不感兴趣这条广告的原因？",
+						"subMenuIds": [13, 7, 8]
+					}, {
+						"menuId": 14
+					}, {
+						"menuId": 16
+					}],
+					"negativeStyle": 1
+				},
+				"originStyleInfo": {
+					"actionBarBgColor": "e5472d",
+					"actionBarDesc": "上线即送3万元宝真实充值，抽到满意再开，这才是真正的内部号！",
+					"actionBarTagColor": "d8351a",
+					"actionBarText": "立即下载",
+					"appIconUrl": "https://static.yximgs.com/udata/pkg/13723d11fe564ffd9d21bc9c06ee59b5.png",
+					"appName": "妖怪哪里逃",
+					"appScore": "0",
+					"consultId": "0",
+					"photoUserInfo": {},
+					"productIconUrl": "https://static.yximgs.com/udata/pkg/13723d11fe564ffd9d21bc9c06ee59b5.png",
+					"productName": "妖怪哪里逃",
+					"secondIndustryName": "角色扮演",
+					"showPlayEndInfo": true
+				},
+				"playEndInfo": {
+					"actionBarColor": "e5472d",
+					"playEndStyle": 1,
+					"showEndOption": false,
+					"tagColor": "c63118"
+				},
+				"playedReportRate": [0.75],
+				"playedReportTime": [7000, 10000, 18000],
+				"posId": "4685",
+				"privacyOption": {
+					"showPhotoRiskTip": true,
+					"showH5RiskTip": true,
+					"displayPosition": 2,
+					"riskTipText": "您访问的网站由第三方提供",
+					"appInfo": {
+						"appName": "妖怪哪里逃",
+						"appVersion": "1.0.1",
+						"packageSize": 443455495,
+						"updateTime": 1650361872663,
+						"developer": "海南九紫网络科技有限公司",
+						"appDetailImg": ""
+					},
+					"style": 0,
+					"photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+					"appDisplayText": "应用名：妖怪哪里逃；版本号：1.0.1；应用大小：422.0M；开发者：海南九紫网络科技有限公司",
+					"links": [{
+						"linkText": "应用权限",
+						"linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+					}, {
+						"linkText": "隐私政策",
+						"linkUrl": "https://h5sdk.hainanjiuzi.com/privacy/policy"
+					}]
+				},
+				"templateDatas": [{
+					"cardType": 11,
+					"data": "{\"subTitle\":\"上线即送3万元宝真实充值，抽到满意再开，这才是真正的内部号！\",\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"E69545\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/13723d11fe564ffd9d21bc9c06ee59b5.png\",\"title\":\"妖怪哪里逃\"}",
+					"displayLocation": 0,
+					"resourceType": 11,
+					"styleType": 2,
+					"templateDelayTime": 9000,
+					"templateId": "adtk-card-ad-v3",
+					"templateShowTime": 0
+				}, {
+					"commentActionBarType": 1,
+					"data": "{\"hideIcon\":false,\"subTitle\":\"上线即送3万元宝真实充值，抽到满意再开，这才是真正的内部号！\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/13723d11fe564ffd9d21bc9c06ee59b5.png\",\"title\":\"妖怪哪里逃\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"E69545\"}",
+					"displayLocation": 0,
+					"resourceType": 1,
+					"styleType": 8,
+					"templateDelayTime": 9000,
+					"templateId": "adtk-comment-actionbar",
+					"templateShowTime": 0
+				}, {
+					"actionBarType": 11,
+					"data": "{\"buttonHeight\":36,\"appName\":\"妖怪哪里逃\",\"description\":\"上线即送3万元宝真实充值，抽到满意再开，这才是真正的内部号！\",\"actionBarBgColor\":\"E69545\",\"actionBar\":\"立即下载\",\"hideActionBarLoad\":false,\"downloadActionBarType\":1}",
+					"displayLocation": 1,
+					"resourceType": 11,
+					"styleType": 3,
+					"templateDelayTime": 9000,
+					"templateId": "adtk-action-bar-ad-v11",
+					"templateShowTime": 0
+				}],
+				"webviewType": 0
+			},
+			"adDescription": "上线即送3万元宝真实充值，抽到满意再开，这才是真正的内部号！",
+			"smallIcon": null,
+			"merchantEnhanceDisplay": null,
+			"hasNewStyle": 0,
+			"missionId": 0,
+			"taskId": 0,
+			"adRerankInfo": {
+				"pos": 5,
+				"rankType": 3
+			},
+			"adStyle": 0,
+			"deviceInfo": null,
+			"styles": {
+				"templates": [{
+					"templateId": "adtk-card-ad-v3",
+					"templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-ad-v3.116.js",
+					"templateVersion": "1.1.6",
+					"templateVersionCode": 116,
+					"templateMd5": "3233f651a5e96bce3375c5437e36ad59"
+				}, {
+					"templateId": "adtk-comment-actionbar",
+					"templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+					"templateVersion": "1.0.3",
+					"templateVersionCode": 103,
+					"templateMd5": "71b760ec732ec84400a7886e5682cf46"
+				}, {
+					"templateId": "adtk-action-bar-ad-v11",
+					"templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-action-bar-ad-v11.137.js",
+					"templateVersion": "1.3.7",
+					"templateVersionCode": 137,
+					"templateMd5": "f9f601f35780e17e028a0fb14a293b87"
+				}]
+			},
+			"universeConfig": null,
+			"callbackParam": null,
+			"layout": null,
+			"playEndInfo": {
+				"playEndStyle": 1000
+			},
+			"adTypeForGap": 1,
+			"enableRetainTopAd": false,
+			"supConversionType": null,
+			"disableFansTopDetailIconClick": false,
+			"switchBit": 1
+		},
+		"type": 1,
+		"liked": 0,
+		"main_url": "http://tx2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg",
+		"main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/04/15/14/BMjAyMjA0MTUxNDM2NTZfMjcxMTQ1NDg5N183MjEwMzkyNjA1N18wXzM=_b_B788d9722cb77d899e961695e2a0aed46.mp4?tag=1-1653316124-unknown-0-p7pv9pjvod-8b5385d7a01ec637&clientCacheKey=3xvpmdztuun2ryc_b.mp4&tt=b&di=714431e1&bp=13291",
+		"comment_count": 0,
+		"ext_params": {
+			"mtype": 3,
+			"color": "EAEAEA",
+			"w": 720,
+			"sound": 0,
+			"h": 1280,
+			"interval": 25,
+			"video": 24440
+		},
+		"main_mv_urls": [{
+			"url": "https://txmov2.a.kwimgs.com/upic/2022/04/15/14/BMjAyMjA0MTUxNDM2NTZfMjcxMTQ1NDg5N183MjEwMzkyNjA1N18wXzM=_b_B788d9722cb77d899e961695e2a0aed46.mp4?tag=1-1653316124-unknown-0-p7pv9pjvod-8b5385d7a01ec637&clientCacheKey=3xvpmdztuun2ryc_b.mp4&tt=b&di=714431e1&bp=13291"
+		}],
+		"cover_urls": [{
+			"url": "http://tx2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg"
+		}],
+		"thumbnail_urls": [{
+			"url": "http://tx2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg"
+		}],
+		"thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg",
+		"cover_thumbnail_urls": [{
+			"url": "http://tx2.a.yximgs.com/udata/pkg/smart_277415abe2ee4af5a23431efe694b1bc.kpg"
+		}],
+		"exp_tag": "1_u/2005175966507566065_hd0",
+		"override_cover_size": {
+			"width": 720,
+			"height": 1280
+		},
+		"profilePagePrefetchInfo": {
+			"profilePageType": 1
+		},
+		"followShoot": {
+			"isLipsSyncPhoto": false
+		},
+		"extEntry": null,
+		"serverExpTag": "feed_photo|5253730512559520669|2711454897|1_u/2005175966507566065_hd0",
+		"user_id": 2711454897,
+		"feedLogCtx": {
+			"stidContainer": "CkMxfDIwMDUxNzU5NjY1MDc1NjYwNjV8cGhvdG86NTI1MzczMDUxMjU1OTUyMDY2OXx7InBnIjoiaGQifXx7InIiOjB9"
+		}
+	}],
+	"error_msg": "OK"
+}
